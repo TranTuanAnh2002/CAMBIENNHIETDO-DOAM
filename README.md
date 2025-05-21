@@ -10,9 +10,9 @@
 
 ## 👨‍💻 Nhóm thực hiện
 
--TRẦN TUẤN ANH
--LÊ MINH DŨNG
--GIÁP TÙNG LINH
+- TRẦN TUẤN ANH  
+- LÊ MINH DŨNG  
+- GIÁP TÙNG LINH
 
 ---
 
