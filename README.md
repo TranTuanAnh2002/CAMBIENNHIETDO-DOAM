@@ -30,24 +30,30 @@
 ### 🔥 Ảnh Firebase
 | Dữ liệu Firebase | Cấu hình Rules |
 |:----------------|:---------------|
-| ![Firebase Data](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/dữ%20liệu%20firebase.jpg) | ![Firebase Rules](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/dữ%20liệu%20rules.jpg) |
- |
+| ![Firebase Data](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhfirebase/dữ%20liệu%20firebase.jpg) | ![Firebase Rules](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhfirebase/dữ%20liệu%20rules.jpg) |
 
 ---
 
-### 💻 Ảnh Code
-| Code 1 | Code 2 | Code 3 || Code 4 |
-|:-------|:-------|:-------||:-------|
-| ![Code 1](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/ảnh%20code1.jpg) | ![Code 2](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/ảnh%20code2.jpg) | ![Code 3](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/ảnh%20code3.jpg) | ![Code 4](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/ảnh%20code4.jpg) |
+### 📌 Ảnh Code
+
+#### 🔹 Code 1
+![Code 1](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhcode/%E1%BA%A3nh%20code1.jpg)
+
+#### 🔹 Code 2
+![Code 2](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhcode/%E1%BA%A3nh%20code2.jpg)
+
+#### 🔹 Code 3
+![Code 3](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhcode/%E1%BA%A3nh%20code3.jpg)
+
+#### 🔹 Code 4
+![Code 4](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhcode/%E1%BA%A3nh%20code4.jpg)
 
 ---
 
 ### 📱 Ảnh Thiết kế App
 | Thiết kế Blocks |  App thực tế |
 |:----------------|:------------|
-| ![Blocks](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/ảnh%20thiết%20kế%20blocks.jpg) | ![App](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/app%20thực%20tế.jpg) |
-
----
+| ![Thiết kế Blocks](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhthietkeapp/%E1%BA%A3nh%20thi%E1%BA%BFt%20k%E1%BA%BF%20blocks.jpg) | ![App thực tế](https://raw.githubusercontent.com/TranTuanAnh2002/CAMBIENNHIETDO-DOAM/main/anhthietkeapp/app%20th%E1%BB%B1c%20t%E1%BA%BF.jpg) |
 
 
 ## 🛠️ Hướng dẫn cài đặt:
