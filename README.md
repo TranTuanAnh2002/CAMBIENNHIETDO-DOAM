@@ -1,5 +1,5 @@
 
-# 📱 Ứng dụng Giám Sát & Điều Khiển IoT
+# 📱 Ứng dụng Giám Sát nhiệt độ và độ ẩm
 
 ## 🎥 Video Demo
 
